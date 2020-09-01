@@ -5,7 +5,7 @@ Snake Game Build With Python. Provided With Script and x64 | x32 bit Exe
 
 #### Installation 
 `$ python -m pip install pygame` or `pip install pygame`
-###### or
+###### and
 `$ python -m install random2 ` or `pip install random2`
 
 ##### GUI Game
