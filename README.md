@@ -1,5 +1,5 @@
 # snakepy
-######Snake Game Build With Python. Provided With Script and x64 | x32 bit Exe
+#####Snake Game Build With Python. Provided With Script and x64 | x32 bit Exe
 #### Snake Game Build With Python
 ###### Created By Rajyavardhanb
 
